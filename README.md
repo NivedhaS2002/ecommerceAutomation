@@ -97,13 +97,3 @@ Open it in any browser to see pass/fail results with screenshots.
 - **Base Test Class** — Common setup/teardown for all tests
 - **Data-Driven** — Test data passed as parameters
 
----
-
-## 🔗 Put This on Your Resume
-
-> **Project:** E-Commerce Test Automation Framework | Selenium + Java + TestNG  
-> - Automated **22 test cases** covering Login, Products, Cart, and Checkout modules  
-> - Implemented **Page Object Model (POM)** design pattern for code reusability  
-> - Integrated **ExtentReports** for detailed HTML reporting with screenshots on failure  
-> - Used **WebDriverManager** for automatic browser driver management  
-> - Managed source code on **GitHub** using Git version control
